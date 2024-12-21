@@ -1,0 +1,1 @@
+export { default as useCustomScanDetection } from "./useCustomScanDetection";
